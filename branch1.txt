@@ -1,6 +1,6 @@
 Branch1
 Edit branch1
 
-Switch back to HTTPS
+Switch to SSH
 
 And change user name
